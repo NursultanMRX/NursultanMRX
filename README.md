@@ -54,12 +54,4 @@ I build systems that take AI models from research to production — **LLMs, GANs
 
 ---
 
-### 🧩 Most Used Languages
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NursultanMRX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=120&section=footer" alt="footer"/>
