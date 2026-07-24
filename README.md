@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=Nursultan%20Koshekbaev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%26%20AI%20Engineer&descAlignY=60&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=Nursultan%20Koshekbaev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20and%20AI%20Engineer&descAlignY=60&descSize=18" alt="header"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
