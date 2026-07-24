@@ -54,29 +54,10 @@ I build systems that take AI models from research to production — **LLMs, GANs
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Most Used Languages
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NursultanMRX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NursultanMRX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NursultanMRX&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NursultanMRX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-</p>
-
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NursultanMRX&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
-<!-- CONTRIBUTION SNAKE (requires the GitHub Action below) -->
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/NursultanMRX/NursultanMRX/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NursultanMRX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
 </p>
 
 ---
